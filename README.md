@@ -11,7 +11,7 @@
 ## 👨‍💻 What I’m currently working on:
 <ul>
   <li><a href="https://github.com/maliknajeeb113/coaching">Coaching</a> – A website for a coaching center as a gift to my teacher</li>
-  <li><a href="https://github.com/maliknajeeb113/Food-App">FoodHub</a> – A clone of the popular food delivery app</li>
+  <li><a href="https://github.com/maliknajeeb113/Food-App">Food-App</a> – A clone of the popular food delivery app</li>
   <li><a href="https://github.com/maliknajeeb113/najeebfolio">Najeebfolio</a> – My personal portfolio project</li>
 </ul>
 
