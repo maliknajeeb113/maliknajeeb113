@@ -19,7 +19,6 @@
 ![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,figma,git,python,flask,mysql&theme=dark)
 
 ![maliknajeeb113's Stats](https://github-readme-stats.vercel.app/api?username=maliknajeeb113&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![maliknajeeb113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maliknajeeb113&theme=dark&hide_border=false)
 
 <h2 align="center">🌱 Interests</h2>
 <p align="center">Football • Squash • Gaming • Coding</p>
